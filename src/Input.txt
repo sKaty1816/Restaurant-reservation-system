@@ -1,0 +1,31 @@
+Table 1 6 smoker
+Table 22 14 non-smoker
+Table 34 2 non-smoker
+Table 49 4 smoker
+Table 56 6 non-smoker
+Table 61 9 smoker
+Table 71 10 smoker
+Table 89 2 smoker
+Table 99 4 non-smoker
+Table 100 8 non-smoker
+
+
+reserve VIP Brad_Pitt 4 non-smoker 16:10 no-view
+reserve regular Katy 8 smoker 18:30
+reserve regular Georgi 10 smoker 18:00
+arrive Brad_Pitt 4 16:00
+reserve VIP Anjelina_Jolly 9 non-smoker 17:00 view
+arrive Anjelina_Jolly 7 17:00
+reserve regular Didi 8 smoker 19:00
+arrive Georgi 8 18:05
+leave Georgi
+arrive Katy 7 18:20
+arrive Didi 8 19:05
+reserve regular Ani 8 smoker 18:15
+leave Anjelina_Jolly
+leave Brad_Pitt
+
+
+end
+
+
