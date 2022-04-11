@@ -1,0 +1,17 @@
+Table 61 6 smoker
+Table 142 14 non-smoker
+Table 24 2 non-smoker
+Table 41 4 smoker
+Table 66 6 non-smoker
+Table 91 9 smoker
+Table 101 10 smoker
+Table 29 2 smoker
+VIP_Table 201 20 non-smoker view
+VIP_Table 42 4 non-smoker no-view 
+VIP_Table 22 2 smoker no-view 
+VIP_Table 65 6 non-smoker view
+VIP_Table 88 8 smoker no-view
+VIP_Table 108 10 non-smoker view
+VIP_Table 21 2 smoker view
+Table 49 4 non-smoker
+Table 80 8 non-smoker
